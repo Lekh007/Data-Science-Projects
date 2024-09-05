@@ -1,0 +1,12 @@
+Business Forecasting Tool
+
+This repository contains a Jupyter Notebook that performs business forecasting using time series data. 
+The tool leverages the ARIMA (AutoRegressive Integrated Moving Average) model to predict future trends in a variable (e.g., Real Exchange Rate). 
+The notebook includes:
+
+- Data Preprocessing: Cleaning and preparing the time series data.
+- ARIMA Model Fitting: Applying the ARIMA model for time series forecasting.
+- Forecast Generation: Predicting future values based on historical data.
+- Visualization: Plotting actual vs. forecasted values for easy interpretation.
+
+This tool is ideal for financial analysts, data scientists, and business professionals looking to forecast key business metrics over a specified time horizon.
